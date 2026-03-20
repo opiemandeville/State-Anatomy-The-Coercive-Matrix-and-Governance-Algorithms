@@ -1,0 +1,2 @@
+# State-Anatomy-The-Coercive-Matrix-and-Governance-Algorithms
+This book aims to use Systems Theory, Cybernetics, and Marxist political economy to treat the state form as a complex "large computational system". The core idea of this book is that: The state is essentially a "physical execution matrix" consisting of a six-tier architecture, whose operating efficiency depends on the rate of instruction 
